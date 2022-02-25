@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itayuliel
-- 👀 I’m interested in Scripting / cloud
+- 👀 I’m interested in Linux / cloud
 - 🌱 I’m currently learning Flutter / Aws / Bash
 - 💞️ I’m looking to collaborate on nothing right now :)
 - 📫 How to reach me https://www.linkedin.com/in/itay-uliel-a4554115a/
